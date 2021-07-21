@@ -1,0 +1,13 @@
+{
+  "name": "bot",
+  "version": "0.0.1-beta",
+  "main": "client.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node client.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0"
+  }
+}
